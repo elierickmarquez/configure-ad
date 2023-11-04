@@ -36,7 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 1. Create Domain Controller VM and Client VM in Azure
 
-   ![Screenshot (7)](https://github.com/meganhoose/configure-AD/assets/142938638/46b103a5-14aa-47d4-b586-799c640a498c)
+  <img src="https://i.imgur.com/SUPxbo7.png" height="80%" width="80%" alt="Installation Steps"/>
 
 
 2. Use same resource group for both VMs
