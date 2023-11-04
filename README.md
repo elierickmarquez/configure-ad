@@ -48,18 +48,17 @@ This tutorial outlines the implementation of on-premises Active Directory within
 4. Install Active Directory
 
    
-![start to install active directory](https://github.com/meganhoose/configure-AD/assets/142938638/ec352f27-c614-43bc-9fa8-194dd8be6070)
-
+<img src="https://i.imgur.com/q0Aei7i.png" height="80%" width="80%" alt="Installation Steps"/>
 
 
 5. Create an Admin and Normal User account in AD
 
-   ![create jane doe admin](https://github.com/meganhoose/configure-AD/assets/142938638/0243d0ec-9f02-4239-abcd-400fa2b77027)
+  <img src="https://i.imgur.com/Wf0HKHa.png" height="80%" width="80%" alt="Installation Steps"/>
 
 
 6. Join Client VM to your domain
 
-   ![join client-1 to the domain](https://github.com/meganhoose/configure-AD/assets/142938638/fc7c4086-25df-4d6a-9d0a-57631c2a12b4)
+  <img src="https://i.imgur.com/v9YqtBy.png" height="80%" width="80%" alt="Installation Steps"/>
 
 
 7. Setup Remote Desktop for non-admin users on Client VM
@@ -67,6 +66,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 8. Create additional users and attempt to login to Client VM with one of the users
 
-   ![login to client one with random user bal qer](https://github.com/meganhoose/configure-AD/assets/142938638/54d4270a-4171-4277-8296-b36c0f6846a0)
-
+   <img src="https://i.imgur.com/dIVP8DM.png" height="80%" width="80%" alt="Installation Steps"/>
 
